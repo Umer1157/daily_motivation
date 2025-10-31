@@ -1,5 +1,5 @@
 export const quotes = [
-  "The secret of getting ahead is getting started. – Mark Twain",
+  "The secret of getting ahead is getting started. – Umer Farooq",
   "Believe you can and you're halfway there. – Theodore Roosevelt",
   "It always seems impossible until it’s done. – Nelson Mandela",
   "The best way to predict the future is to create it. – Peter Drucker",
