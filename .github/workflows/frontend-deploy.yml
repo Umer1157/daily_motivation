@@ -30,7 +30,7 @@ jobs:
           username: ${{ secrets.EC2_USER }}
           key: ${{ secrets.EC2_SSH_KEY }}
           source: "dist/*"
-          target: "/home/ubuntu/dist"
+          target: "/home/ubuntu"
 
       - name: Reload Nginx on EC2
         uses: appleboy/ssh-action@v1.0.3
